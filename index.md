@@ -23,6 +23,7 @@ I am part of the fabulous [TAFFO] development team.
 
 The best way to contact me is by email: [michele.chiari@polimi.it] <br />
 Twitter: [@micchiari](https://twitter.com/micchiari)
+GitHub: [michiari](https://github.com/michiari)
 
 Most of the time, you may also find me here: <br />
 DEIB -- Politecnico di Milano <br />
