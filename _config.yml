@@ -4,8 +4,8 @@ title: Michele Chiari
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://michiari.github.io"     # the base hostname & protocol for your site
-baseurl: "/michiari"                   # the subpath of your site, e.g. /blog
+url: "https://michiari.github.io/"     # the base hostname & protocol for your site
+baseurl: "/"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
