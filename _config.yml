@@ -1,12 +1,11 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+title: Michele Chiari
+# description: Michele Chiari's website.
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://gchauras.github.io"     # the base hostname & protocol for your site
-baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+url: "http://michiari.github.io"     # the base hostname & protocol for your site
+baseurl: "/michiari"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
@@ -55,3 +54,6 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+plugins:
+  - jekyll-target-blank

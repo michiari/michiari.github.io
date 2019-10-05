@@ -1,7 +1,13 @@
 <div class="captioned-img align{{include.align}}">
     <a href="{{ include.url }}">
+    {% if include.class %}
+      {% capture classarg %}class="{{ include.class }}"{% endcapture %}
+    {% else %}
+      {% assign classarg="" %}
+    {% endif %}
+
     {% if include.width %}
-    <img src="{{ include.url }}" width="{{ include.width }}" />
+    <img src="{{ include.url }}" width="{{ include.width }}" {{ classarg }} />
     {% else if include.height %}
     <img src="{{ include.url }}" height="{{ include.height }}" />
     {% else %}

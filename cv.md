@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae et Studiorum
 permalink: /cv/
 ---
 
-Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf). The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
+Download [PDF version](https://www.dropbox.com/s/0lyed8gzobcq24t/Curriculum_Vitae_pub.pdf?dl=1).
 
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
+{% include embedpdf.html source="https://www.dropbox.com/s/0lyed8gzobcq24t/Curriculum_Vitae_pub.pdf?dl=1" width=100 height=800 %}
