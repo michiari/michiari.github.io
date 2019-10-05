@@ -22,7 +22,7 @@ I am part of the fabulous [TAFFO] development team.
 ## Contact
 
 The best way to contact me is by email: [michele.chiari@polimi.it] <br />
-Twitter: [@micchiari](https://twitter.com/micchiari)
+Twitter: [@micchiari](https://twitter.com/micchiari) <br />
 GitHub: [michiari](https://github.com/michiari)
 
 Most of the time, you may also find me here: <br />
