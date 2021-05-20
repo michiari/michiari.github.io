@@ -4,6 +4,13 @@ permalink: /research/
 title: Research
 opl:
 
+    - title:   "Model-Checking Structured Context-Free Languages"
+      author:  "M. Chiari, D. Mandrioli, M. Pradella"
+      journal: "CAV 2021"
+      year:    "2021"
+      url:     "http://i-cav.org/2021/accepted-papers/"
+      note:    "to appear"
+
     - title:   "Operator Precedence Temporal Logic and Model Checking"
       author:  "M. Chiari, D. Mandrioli, M. Pradella"
       journal: "Theor. Comput. Sci. 848: 47--81"
@@ -31,6 +38,13 @@ opl:
       doi:     "http://dx.doi.org/10.4204/EPTCS.277.12"
 
 taffo:
+
+    - title:   "FixM: Code generation of fixed point mathematical functions"
+      author:  "D. Cattaneo, M. Chiari, G. Magnani, N. Fossati, S. Cherubin, G. Agosta"
+      journal: "Sustain. Comput. Informatics Syst. 29"
+      year:    "2021"
+      url:     "https://doi.org/10.1016/j.suscom.2020.100478"
+      doi:     "https://doi.org/10.1016/j.suscom.2020.100478"
 
     - title:   "The Impact of Precision Tuning on Embedded Systems Performance: A Case Study on Field-Oriented Control"
       author:  "G. Magnani, D. Cattaneo, M. Chiari, G. Agosta"
@@ -71,8 +85,7 @@ eclair:
 
 ---
 
-Disclaimer: this list of publications might be outdated.
-For a more updated one, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/c/Chiari:Michele){:target="_blank"}.
+If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/c/Chiari:Michele){:target="_blank"}.
 
 {% assign thumbnail="left" %}
 
@@ -83,22 +96,7 @@ For a more updated one, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/c/Ch
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% endfor %}
-
-
-## Approximate Computing
-
-{% for pub in page.taffo %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}){:target="_blank"}<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
@@ -113,7 +111,22 @@ For a more updated one, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/c/Ch
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}){:target="_blank"}<br />
+{{pub.author}}<br />
+*{{pub.journal}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% endfor %}
+
+
+## Approximate Computing
+
+{% for pub in page.taffo %}
+{% if pub.image %}
+{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}){:target="_blank"}<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
