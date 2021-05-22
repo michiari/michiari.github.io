@@ -23,7 +23,7 @@ I am part of the fabulous [TAFFO]{:target="_blank"} development team.
 ## News
 
 - 2021/04/19: our paper "Model-Checking Structured Context-Free Languages" has been accepted at CAV 2021!
-- 2021/02/10: our AMC TOSEM paper "A Practical Approach to Verification of Floating-Point C/C++ Programs with math.h/cmath Functions" has been accepted for presentation in the Journal-First track of ICSE 2021!
+- 2021/02/10: our ACM TOSEM paper "A Practical Approach to Verification of Floating-Point C/C++ Programs with math.h/cmath Functions" has been accepted for presentation in the Journal-First track of ICSE 2021!
 
 
 ## Contact
