@@ -9,6 +9,7 @@ opl:
       journal: "CAV 2021"
       year:    "2021"
       url:     "http://i-cav.org/2021/accepted-papers/"
+      prepr:   "/papers/CAV21.pdf"
       note:    "to appear"
 
     - title:   "Operator Precedence Temporal Logic and Model Checking"
@@ -17,6 +18,7 @@ opl:
       year:    "2020"
       url:     "https://doi.org/10.1016/j.tcs.2020.08.034"
       doi:     "https://doi.org/10.1016/j.tcs.2020.08.034"
+      prepr:   "/papers/TCS20.pdf"
 
     - title:   "Linear Temporal Logics for Structured Context-Free Languages"
       author:  "M. Chiari, D. Bergamaschi, D. Mandrioli, M. Pradella"
@@ -82,6 +84,7 @@ eclair:
       year:    "2021"
       url:     "https://doi.org/10.1145/3410875"
       doi:     "https://doi.org/10.1145/3410875"
+      prepr:   "https://arxiv.org/abs/1610.07390"
 
 ---
 
@@ -100,7 +103,8 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
+{% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 {% endfor %}
 
@@ -115,7 +119,8 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
+{% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 {% endfor %}
 
@@ -130,6 +135,7 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
+{% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 {% endfor %}
