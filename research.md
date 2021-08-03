@@ -8,9 +8,10 @@ opl:
       author:  "M. Chiari, D. Mandrioli, M. Pradella"
       journal: "CAV 2021"
       year:    "2021"
-      url:     "http://i-cav.org/2021/accepted-papers/"
+      url:     "https://ucl-pplv.github.io/CAV21/poster_P_66/"
+      doi:     "https://doi.org/10.1007/978-3-030-81688-9_18"
       prepr:   "/papers/CAV21.pdf"
-      note:    "to appear"
+      media:   "https://youtu.be/KTV05m_TnD4"
 
     - title:   "Operator Precedence Temporal Logic and Model Checking"
       author:  "M. Chiari, D. Mandrioli, M. Pradella"
@@ -85,6 +86,7 @@ eclair:
       url:     "https://doi.org/10.1145/3410875"
       doi:     "https://doi.org/10.1145/3410875"
       prepr:   "https://arxiv.org/abs/1610.07390"
+      media:   "https://youtu.be/T9zq7qG-B-c"
 
 ---
 
@@ -105,7 +107,7 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
 {% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% if pub.media %}[[video]({{pub.media}}){:target="_blank"}]{% endif %}
 {% endfor %}
 
 
@@ -121,7 +123,7 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
 {% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% if pub.media %}[[video]({{pub.media}}){:target="_blank"}]{% endif %}
 {% endfor %}
 
 
@@ -137,5 +139,5 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
 {% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% if pub.media %}[[video]({{pub.media}}){:target="_blank"}]{% endif %}
 {% endfor %}
