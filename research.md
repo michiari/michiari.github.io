@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 opl:
 
+    - title:    "Verification of Programs with Exceptions Through Operator Precedence Automata"
+      author:   "F. Pontiggia, M. Chiari, M. Pradella"
+      journal:  "SEFM 2021, LNCS 13085: 293--311"
+      year:     "2021"
+      url:      "https://link.springer.com/chapter/10.1007%2F978-3-030-92124-8_17"
+      doi:      "https://doi.org/10.1007/978-3-030-92124-8_17"
+      prepr:    "/papers/SEFM21.pdf"
+
     - title:   "Model-Checking Structured Context-Free Languages"
       author:  "M. Chiari, D. Mandrioli, M. Pradella"
       journal: "CAV 2021, LNCS 12760: 387--410"
@@ -41,6 +49,14 @@ opl:
       doi:     "http://dx.doi.org/10.4204/EPTCS.277.12"
 
 taffo:
+
+    - title:   "Architecture-aware Precision Tuning with Multiple Number Representation Systems"
+      author:  "D. Cattaneo, M. Chiari, N. Fossati, S. Cherubin, G. Agosta"
+      journal: "DAC 2021: 673--678"
+      year:    "2021"
+      url:     "https://doi.org/10.1109/DAC18074.2021.9586303"
+      doi:     "https://doi.org/10.1109/DAC18074.2021.9586303"
+      prepr:   "/papers/DAC21.pdf"
 
     - title:   "FixM: Code generation of fixed point mathematical functions"
       author:  "D. Cattaneo, M. Chiari, G. Magnani, N. Fossati, S. Cherubin, G. Agosta"

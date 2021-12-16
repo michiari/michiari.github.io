@@ -4,7 +4,8 @@ title: Service
 permalink: /service/
 ---
 
-
+- [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} Program Committee
+- [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
 - [ICST 2021 Poster Track](https://icst2022.vrain.upv.es/track/icst-2022-posters){:target="_blank"} Program Committee
 - [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-Artifacts){:target="_blank"} Artifact Evaluation Committee
 
