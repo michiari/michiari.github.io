@@ -6,14 +6,15 @@ permalink: /
 
 {% include image.html url="images/profile.jpg" caption="" width="300px" align="right" class="round" %}
 
-I am a Computer Science PhD student in the [deepse]{:target="_blank"} group, at [DEIB]{:target="_blank"}, [Politecnico di Milano]{:target="_blank"}.
-My supervisors are [Dino Mandrioli](https://mandrioli.faculty.polimi.it/){:target="_blank"} and [Matteo Pradella](https://pradella.faculty.polimi.it/){:target="_blank"}.  <br />
+I am a Computer Science PostDoc in the [deepse]{:target="_blank"} group, at [DEIB]{:target="_blank"}, [Politecnico di Milano]{:target="_blank"}. <br />
 My research interests cover formal methods for the verification of safety-critical and real-time systems,
 focusing on temporal logic, formal languages and automata theory.
 
 I am currently working on context-free temporal logic and model checking.
 In particular, I am developing new temporal logics based on Operator Precedence Languages,
 with the purpose of allowing better and more general modelling and specification of procedural programs.
+
+I am involved in the [PIACERE H2020 project](https://www.piacere-project.eu/){:target="_blank"}, in which I am investigating ways of model checking Infrastructure-as-Code.
 
 I am also interested in the verification of floating-point computations,
 as well as approximate computing. <br />
