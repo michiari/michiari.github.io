@@ -4,6 +4,7 @@ title: Service
 permalink: /service/
 ---
 
+- [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} External Review / Artifact Evaluation Committee (Round 2)
 - [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} Program Committee
 - [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
 - [ICST 2021 Poster Track](https://icst2022.vrain.upv.es/track/icst-2022-posters){:target="_blank"} Program Committee
@@ -12,6 +13,7 @@ permalink: /service/
 
 # Reviewer
 
+- [IEEE Software](https://www.computer.org/csdl/magazine/so){:target="_blank"}
 - [ACM TOSEM](https://dl.acm.org/journal/tosem){:target="_blank"}
 - [FormaliSE 2021](https://conf.researchr.org/home/Formalise-2021){:target="_blank"} (subreviewer)
 - [IJCIS](https://www.worldscientific.com/worldscinet/ijcis){:target="_blank"}
