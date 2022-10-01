@@ -23,6 +23,7 @@ I am part of the fabulous [TAFFO](https://taffo-org.github.io/){:target="_blank"
 
 ## News
 
+- 2022/09/18: I'll be a member of the [SAC-SVT 2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"} PC
 - 2022/01/28: I'll be a member of the [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} ERC + AEC
 - 2021/11/05: I'll be a member of the [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} PC
 - 2021/10/25: I'll be a member of the [ECOOP 2022](https://2022.ecoop.org/track/ecoop-2022-artifacts){:target="_blank"} ERC + AEC

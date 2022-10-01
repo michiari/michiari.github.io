@@ -4,6 +4,7 @@ title: Service
 permalink: /service/
 ---
 
+- [SAC-SVT 2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"} Program Committee
 - [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} External Review / Artifact Evaluation Committee (Round 2)
 - [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} Program Committee
 - [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
