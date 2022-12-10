@@ -4,7 +4,14 @@ permalink: /research/
 title: Research
 opl:
 
-    - title:    "Verification of Programs with Exceptions Through Operator Precedence Automata"
+    - title:      "A First-Order Complete Temporal Logic for Structured Context-Free Languages"
+      author:     "M. Chiari, D. Mandrioli, M. Pradella"
+      journal:    "Log. Methods Comput. Sci. 18(3)"
+      year:       "2022"
+      url:        "https://arxiv.org/abs/2105.10740v4"
+      doi:        "https://doi.org/10.46298/lmcs-18(3:11)2022"
+
+    - title:    "Verification of Programs with Exceptions through Operator Precedence Automata"
       author:   "F. Pontiggia, M. Chiari, M. Pradella"
       journal:  "SEFM 2021, LNCS 13085: 293--311"
       year:     "2021"
@@ -95,6 +102,14 @@ taffo:
 
 eclair:
 
+    - title:   "Correct approximation of IEEE 754 floating-point arithmetic for program verification"
+      author:  "R. Bagnara, A. Bagnara, F. Biselli, M. Chiari, R. Gori"
+      journal: "Constraints 27(1-2): 29--69"
+      year:    "2022"
+      url:     "https://doi.org/10.1007/s10601-021-09322-9"
+      doi:     "https://doi.org/10.1007/s10601-021-09322-9"
+      prepr:   "https://arxiv.org/abs/1903.06119"
+
     - title:   "A Practical Approach to Verification of Floating-Point C/C++ Programs with math.h/cmath Functions"
       author:  "R. Bagnara, M. Chiari, R. Gori, A. Bagnara"
       journal: "ACM Trans. Softw. Eng. Methodol. 30(1): 9:1--9:53"
@@ -104,6 +119,16 @@ eclair:
       doi:     "https://doi.org/10.1145/3410875"
       prepr:   "https://arxiv.org/abs/1610.07390"
       media:   "https://youtu.be/T9zq7qG-B-c"
+
+piacere:
+
+    - title:   "Static Analysis of Infrastructure as Code: a Survey"
+      author:  "M. Chiari, M. De Pascalis, M. Pradella"
+      journal: "FIST@ICSA 2022, ICSA Companion 2022: 218--225"
+      year:    "2022"
+      url:     "https://doi.org/10.1109/ICSA-C54293.2022.00049"
+      doi:     "https://doi.org/10.1109/ICSA-C54293.2022.00049"
+      prepr:   "https://doi.org/10.48550/arXiv.2206.10344"
 
 ---
 
@@ -147,6 +172,22 @@ If you like little squares, here's my [DBLP](https://dblp1.uni-trier.de/pers/hd/
 ## Approximate Computing
 
 {% for pub in page.taffo %}
+{% if pub.image %}
+{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}){:target="_blank"}<br />
+{{pub.author}}<br />
+*{{pub.journal}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} *({{pub.year}})* {% if pub.doi %}[[doi]({{pub.doi}}){:target="_blank"}]{% endif %}
+{% if pub.prepr %}[[preprint]({{pub.prepr}}){:target="_blank"}]{% endif %}
+{% if pub.media %}[[video]({{pub.media}}){:target="_blank"}]{% endif %}
+{% endfor %}
+
+
+## Verification of Infrastructure as Code
+
+{% for pub in page.piacere %}
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
