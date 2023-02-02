@@ -4,11 +4,23 @@ title: Service
 permalink: /service/
 ---
 
+# Program Committee
+
+- [RV 2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"} Program Committee
+- [FastContinuum 2023](https://sites.google.com/view/fastcontinuum-2023/organization){:target="_blank"} Program Committee
 - [SAC-SVT 2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"} Program Committee
-- [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} External Review / Artifact Evaluation Committee (Round 2)
+- [FIST 2023](https://www.fist-workshop.org/organization){:target="_blank"} Program Committee
 - [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} Program Committee
-- [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
 - [ICST 2021 Poster Track](https://icst2022.vrain.upv.es/track/icst-2022-posters){:target="_blank"} Program Committee
+
+
+# Artifact Evaluation
+
+- [CAV 2023](http://www.i-cav.org/2023/organisation/){:target="_blank"} Artifact Evaluation Committee
+- [ECOOP 2023](https://2023.ecoop.org/track/ecoop-2023-artifacts){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
+- [The Programming Journal](https://programming-journal.org/){:target="_blank"} Volumes 7 and 8
+- [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} External Review / Artifact Evaluation Committee (Round 2)
+- [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
 - [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-Artifacts){:target="_blank"} Artifact Evaluation Committee
 
 

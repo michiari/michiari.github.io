@@ -25,9 +25,14 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 
 ## News
 
+- 2023/01/27: I'll serve on the [RV 2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"} PC
+- 2023/01/19: I'll be a member of the [CAV 2023](http://www.i-cav.org/2023/organisation/){:target="_blank"} AEC
+- 2022/12/16: I'll be co-chairing the [VeriProp 2023](http://www.i-cav.org/2023/workshops/){:target="_blank"} Workshop @ CAV 2023
 - 2022/11/03: I've joined Ezio Bartocci's group at TU Wien as a PostDoc
 - 2022/09/18: I'll be a member of the [SAC-SVT 2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"} PC
 - 2022/01/28: I'll be a member of the [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} ERC + AEC
+
+{% comment %}
 - 2021/11/05: I'll be a member of the [FIST 2022](https://sites.google.com/view/fist-2022/home){:target="_blank"} PC
 - 2021/10/25: I'll be a member of the [ECOOP 2022](https://2022.ecoop.org/track/ecoop-2022-artifacts){:target="_blank"} ERC + AEC
 - 2021/09/24: our paper "Verification of Programs with Exceptions through Operator-Precedence Automata" has been accepted at SEFM 2021!
@@ -35,6 +40,7 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 - 2021/06/23: I'll be a member of the OOPSLA 2021 AEC
 - 2021/04/19: our paper "Model-Checking Structured Context-Free Languages" has been accepted at CAV 2021!
 - 2021/02/10: our ACM TOSEM paper "A Practical Approach to Verification of Floating-Point C/C++ Programs with math.h/cmath Functions" has been accepted for presentation in the Journal-First track of ICSE 2021!
+{% endcomment %}
 
 
 ## Contact
