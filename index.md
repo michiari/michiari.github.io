@@ -25,6 +25,7 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 
 ## News
 
+- 2023/02/13: My [MSCA PF](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships){:target="_blank"} proposal "CORPORA" has been funded by the European Commission!
 - 2023/01/27: I'll serve on the [RV 2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"} PC
 - 2023/01/19: I'll be a member of the [CAV 2023](http://www.i-cav.org/2023/organisation/){:target="_blank"} AEC
 - 2022/12/16: I'll be co-chairing the [VeriProp 2023](http://www.i-cav.org/2023/workshops/){:target="_blank"} Workshop @ CAV 2023
