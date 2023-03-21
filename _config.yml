@@ -1,5 +1,6 @@
 title: Michele Chiari
-# description: Michele Chiari's website.
+description: Michele Chiari's website.
+repository: michiari/michiari.github.io
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md", "blog.md"]
