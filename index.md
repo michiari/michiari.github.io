@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/profile.jpg" caption="" width="250px" align="right" class="round" %}
 
-I am a PostDoc (Projektass.) in the [TrustCPS]{:target="_blank"} led by Univ-Prof Ezio Bartocci within the [Institute of Computer Engineering]{:target="_blank"} at [TU Wien]{:target="_blank"}.
+I am the PI of the [MSCA PF]{:target="_blank"} project [CORPORA]{:target="_blank"} hosted by the [TrustCPS]{:target="_blank"} group led by Univ-Prof Ezio Bartocci within the [Institute of Computer Engineering]{:target="_blank"} at [TU Wien]{:target="_blank"}.
 
 My research interests cover formal methods for the verification of safety-critical and real-time systems,
 focusing on temporal logic, formal languages and automata theory.
@@ -25,7 +25,8 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 
 ## News
 
-- 2023/02/13: My [MSCA PF](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships){:target="_blank"} proposal "CORPORA" has been funded by the European Commission!
+- 2023/12/14: I'll be co-chairing the VeriProp 2024 Workshop @ CAV 2024
+- 2023/02/13: My [MSCA PF]{:target="_blank"} proposal [CORPORA]{:target="_blank"} has been funded by the European Commission!
 - 2023/01/27: I'll serve on the [RV 2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"} PC
 - 2023/01/19: I'll be a member of the [CAV 2023](http://www.i-cav.org/2023/organisation/){:target="_blank"} AEC
 - 2022/12/16: I'll be co-chairing the [VeriProp 2023](http://www.i-cav.org/2023/workshops/){:target="_blank"} Workshop @ CAV 2023
@@ -64,3 +65,5 @@ Treitlstraße 3, 1040, Vienna, Austria <br />
 [Politecnico di Milano]: https://www.polimi.it/
 [TAFFO]: https://github.com/HEAPLab/TAFFO
 [michele.chiari@tuwien.ac.at]: mailto:michele.chiari@tuwien.ac.at
+[MSCA PF]: https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships
+[CORPORA]: https://corpora-lab.github.io/
