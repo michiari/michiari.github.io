@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-{% include image.html url="images/profile.jpg" caption="" width="250px" align="right" class="round" %}
+{% include image.html url="images/profile.jpg" caption="" width="300px" align="right" class="round" %}
 
 I am the PI of the [MSCA PF]{:target="_blank"} project [CORPORA]{:target="_blank"} hosted by the [TrustCPS]{:target="_blank"} group led by Univ-Prof Ezio Bartocci at [TU Wien]{:target="_blank"}.
 
