@@ -16,7 +16,7 @@ permalink: /cv-highlights/
 - 2016 – 2018: M.Sc. in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/){:target="_blank"}
 - 2013 – 2016: B.Sc. in Computer Science at the [University of Parma](https://www.unipr.it/){:target="_blank"}
 
-## Program Committees
+## Program Committee Membership
 
 - OOPSLA 2025-25 (Review Committee)
 - RP [2024](https://easychair.org/smart-program/RP24/PC.html){:target="_blank"}
@@ -35,11 +35,11 @@ permalink: /cv-highlights/
 - [ECOOP 2023](https://2023.ecoop.org/track/ecoop-2023-artifacts){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
 - [The Programming Journal](https://programming-journal.org/){:target="_blank"} Volumes 7 and 8
 - [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla){:target="_blank"} External Review / Artifact Evaluation Committee (Round 2)
-- [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee
+- [ECOOP 2022](https://2022.ecoop.org/){:target="_blank"} Artifact Evaluation Committee + Extended Review Committee ([Distinguished Artifact Reviewer!](https://2022.ecoop.org/track/ecoop-2022-awards#distinguished-artifact-reviewers){:target="_blank"})
 - [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-Artifacts){:target="_blank"} Artifact Evaluation Committee
 
 
-## Reviewer
+## Peer Review
 
 -  VCLA International Student Award Committee (2023, [2024](https://www.vcla.at/2024/04/call-for-nominations-vcla-international-student-awards-2024/){:target="_blank"})
 - IEEE Transactions on Software Engineering (TSE)

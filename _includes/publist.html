@@ -1,0 +1,31 @@
+<table class="publist">
+{% for pub in include.db %}
+<tr><td class="pub-label">[{{pub.label}}]</td>
+<td>
+{% if pub.image %}
+{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+<div class="pub-title">
+  <a href="{% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}" target="_blank">
+    {{pub.title}}
+  </a>
+</div>
+<div>
+  {{pub.author}}
+</div>
+<div>
+  <span class="pub-venue">
+    {{pub.journal}}
+  </span>
+  ({{pub.year}})
+  {% if pub.note %} ({{pub.note}}) {% endif %}
+  <span class="pub-links">
+  {% if pub.doi %}[<a href="{{pub.doi}}" target="_blank">doi</a>]{% endif %}
+  {% if pub.prepr %}[<a href="{{pub.prepr}}" target="_blank">preprint</a>]{% endif %}
+  {% if pub.media %}[<a href="{{pub.media}}" target="_blank">video</a>]{% endif %}
+  </span>
+</div>
+</td>
+</tr>
+{% endfor %}
+</table>

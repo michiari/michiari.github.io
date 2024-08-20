@@ -131,6 +131,12 @@ pre {
             fill: $text-color;
         }
     }
+    > img {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        vertical-align: baseline;
+    }
 }
 
 .footnotes ol li {

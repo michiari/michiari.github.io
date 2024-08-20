@@ -1,0 +1,24 @@
+table.publist {
+    width: 100%;
+}
+
+table.publist td {
+    padding-bottom: 1ex;
+}
+
+.pub-label {
+    vertical-align: top;
+    padding-right: 1em;
+}
+
+.pub-title {
+    font-weight: bold;
+}
+
+.pub-venue {
+    font-style: italic;
+}
+
+.pub-links {
+    white-space: nowrap;
+}
