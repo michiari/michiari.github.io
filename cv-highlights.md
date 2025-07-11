@@ -19,6 +19,7 @@ permalink: /cv-highlights/
 ## Program Committee Membership
 
 - OOPSLA [2025](https://2025.splashcon.org/committee/splash-2025-OOPSLA-oopsla-review-committee){:target="_blank"} (Review Committee)
+- DATE [2025 Track D2](https://date25.date-conference.com/tpc){:target="_blank"}
 - RP [2024](https://easychair.org/smart-program/RP24/PC.html){:target="_blank"}
 - RV [2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"}, [2024](https://bouncmpe.github.io/rv24/committees/){:target="_blank"}, [2025](https://rv25.isec.tugraz.at/committees/){:target="_blank"}
 - SAC-SVT [2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"}, [2024](https://sac-svt.github.io/sac-svt-2024/){:target="_blank"}, [2025](https://sac-svt.github.io/sac-svt-2025/){:target="_blank"}
