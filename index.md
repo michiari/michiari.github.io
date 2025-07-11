@@ -25,13 +25,17 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 
 
 ## News
+- 2025/06/11: our paper "A Tree-Shaped Tableau for Checking the Satisfiability of Signal Temporal Logic with Bounded Temporal Operators" has been accepted at EMSOFT 2025!
+- 2025/05/22: our paper ["Decentralized Planning Using Probabilistic Hyperproperties"](https://doi.org/10.48550/arXiv.2502.13621){:target="_blank"} has been awarded the Best Student Paper Award at AAMAS 2025!
+- 2025/05/20: our paper ["POPACheck: A Model Checker for Probabilistic Pushdown Automata"](https://doi.org/10.48550/arXiv.2502.03956){:target="_blank"} has been accepted at CAV 2025!
+- 2024/12/20: I'll be co-chairing the [VeriProp 2025](https://veriprop.github.io/2025/){:target="_blank"} Workshop @ CAV 2025
 - 2024/08/13: I'll serve on the OOPSLA 2024-25 Review Committee
+
+{% comment %}
 - 2024/04/27: Our paper ["SMT-based Symbolic Model-Checking for Operator Precedence Languages"](https://doi.org/10.1007/978-3-031-65627-9_19){:target="_blank"} has been accepted at CAV 2024!
 - 2024/01/22: I'll serve on the [RV 2024](https://yeni.cmpe.bogazici.edu.tr/rv24/committees/){:target="_blank"} PC
 - 2023/12/14: I'll be co-chairing the [VeriProp 2024](https://veriprop.github.io/2024/){:target="_blank"} Workshop @ CAV 2024
 - 2023/02/13: My [MSCA PF]{:target="_blank"} proposal [CORPORA]{:target="_blank"} has been funded by the European Commission!
-
-{% comment %}
 - 2023/01/27: I'll serve on the [RV 2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"} PC
 - 2023/01/19: I'll be a member of the [CAV 2023](http://www.i-cav.org/2023/organisation/){:target="_blank"} AEC
 - 2022/12/16: I'll be co-chairing the [VeriProp 2023](http://www.i-cav.org/2023/workshops/){:target="_blank"} Workshop @ CAV 2023
