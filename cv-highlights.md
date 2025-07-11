@@ -20,11 +20,11 @@ permalink: /cv-highlights/
 
 - OOPSLA 2025-25 (Review Committee)
 - RP [2024](https://easychair.org/smart-program/RP24/PC.html){:target="_blank"}
-- RV [2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"}, [2024](https://bouncmpe.github.io/rv24/committees/){:target="_blank"}
+- RV [2023](https://rv23.csd.auth.gr/%2Fcommittees){:target="_blank"}, [2024](https://bouncmpe.github.io/rv24/committees/){:target="_blank"}, [2025](https://rv25.isec.tugraz.at/committees/){:target="_blank"}
 - SAC-SVT [2023](http://logimics.mics.centralesupelec.fr/en/SAC-SVT-2023){:target="_blank"}, [2024](https://sac-svt.github.io/sac-svt-2024/){:target="_blank"}, [2025](https://sac-svt.github.io/sac-svt-2025/){:target="_blank"}
-- VORTEX [2024](https://conf.researchr.org/committee/issta-ecoop-2024/vortex-2024-papers-program-committee){:target="_blank"}
+- VORTEX [2024](https://conf.researchr.org/committee/issta-ecoop-2024/vortex-2024-papers-program-committee){:target="_blank"}, [2025](https://2025.ecoop.org/committee/vortex-2025-VORTEX-2024-1-program-committee){:target="_blank"}
 - FAACS [2024 Workshop](https://faacs-workshop.github.io/2024/#organization){:target="_blank"}
-- [FastContinuum@ICPE 2023](https://sites.google.com/view/fastcontinuum-2023/organization){:target="_blank"}
+- [FastContinuum@ICPE 2023](https://sites.google.com/view/fastcontinuum-2023/organization){:target="_blank"}, [FastContinuum 2025](https://services.conferences.computer.org/2025/fastcontinuum-2025/){:target="_blank"}
 - FIST@ICSA [2022](https://sites.google.com/view/fist-2022/home){:target="_blank"}, [2023](https://www.fist-workshop.org/organization){:target="_blank"}
 - [ICST 2021 Poster Track](https://icst2022.vrain.upv.es/track/icst-2022-posters){:target="_blank"}
 
