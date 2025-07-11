@@ -55,8 +55,8 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 ## Contact
 
 The best way to contact me is by email: [michele.chiari@tuwien.ac.at] <br />
-Twitter: [@micchiari](https://twitter.com/micchiari){:target="_blank"} <br />
 GitHub: [michiari](https://github.com/michiari){:target="_blank"}
+LinkedIn: [Michele Chiari](https://www.linkedin.com/in/michele-chiari/){:target="_blank"}
 
 Quite often, you may also find me here: <br />
 TrustCPS Group – TU Wien <br />
