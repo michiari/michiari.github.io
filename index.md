@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/profile.jpg" caption="" width="300px" align="right" class="round" %}
 
-I am a scientist at [AIT, the Austrian Institute of Technology](https://www.ait.ac.at/) within the Center for Digital Safety & Security.
+I am a scientist at [AIT Austrian Institute of Technology](https://www.ait.ac.at/), within the Center for Digital Safety & Security.
 My research is focused on the verification of cyber-physical systems, possibly including generative AI components, and automated reasoning.
 
 During my PhD in the [deepse](http://deepse.dei.polimi.it/) group at [DEIB](https://www.deib.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), I introduced POTL, a temporal logic based on Operator Precedence Languages, to better model and specify recursive programs.
@@ -14,7 +14,7 @@ I also worked on floating-point verification and approximate computing, and coll
 
 Afterward, I was PI of the [MSCA PF](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) project [CORPORA](https://corpora-lab.github.io/) at the [TrustCPS](http://www.eziobartocci.com/team.php) group, [TU Wien](https://www.tuwien.at/), where I investigated verification of recursive probabilistic programs through probabilistic pushdown model checking.
 
-I contribute to and maintain the [OPPAS]{https://github.com/michiari/OPPAS} tool suite for verifying recursive (probabilistic) programs.
+I contribute to and maintain the [OPPAS](https://github.com/michiari/OPPAS) tool suite for verifying recursive (probabilistic) programs.
 
 
 {% comment %}
