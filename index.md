@@ -6,32 +6,24 @@ permalink: /
 
 {% include image.html url="images/profile.jpg" caption="" width="300px" align="right" class="round" %}
 
-I am the PI of the [MSCA PF]{:target="_blank"} project [CORPORA]{:target="_blank"} hosted by the [TrustCPS]{:target="_blank"} group led by Univ-Prof Ezio Bartocci at [TU Wien]{:target="_blank"}.
+I am a scientist at [AIT, the Austrian Institute of Technology](https://www.ait.ac.at/) within the Center for Digital Safety & Security.
+My research is focused on the verification of cyber-physical systems, possibly including generative AI components, and automated reasoning.
 
-My research interests cover formal methods for the verification of safety-critical and real-time systems,
-focusing on temporal logic, formal languages and automata theory.
+During my PhD in the [deepse](http://deepse.dei.polimi.it/) group at [DEIB](https://www.deib.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), I introduced POTL, a temporal logic based on Operator Precedence Languages, to better model and specify recursive programs.
+I also worked on floating-point verification and approximate computing, and collaborated on [TAFFO](https://taffo-org.github.io/), a compiler-based precision-tuning framework.
 
-I am currently working on context-free temporal logic and (probabilistic) pushdown model checking.
-In particular, I introduced a new temporal logic (POTL) based on Operator Precedence Languages,
-with the purpose of allowing better and more general modelling and specification of recursive programs.
-Within CORPORA, I am studying ways of verifying recursive probabilistic programs through probabilistic pushdown model checking.
+Afterward, I was PI of the [MSCA PF](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) project [CORPORA](https://corpora-lab.github.io/) at the [TrustCPS](http://www.eziobartocci.com/team.php) group, [TU Wien](https://www.tuwien.at/), where I investigated verification of recursive probabilistic programs through probabilistic pushdown model checking.
 
-I am also interested in the verification of floating-point computations,
-as well as approximate computing.
-I collaborated in the development of [TAFFO](https://taffo-org.github.io/){:target="_blank"}, a compiler-based precision-tuning framework.
-
-Previously, I was a Ph.D. candidate and then a PostDoc in the [deepse]{:target="_blank"} group, at [DEIB]{:target="_blank"}, [Politecnico di Milano]{:target="_blank"},
-where I was involved in the [PIACERE H2020 project](https://www.piacere-project.eu/){:target="_blank"}, in which I was investigating ways of model checking Infrastructure-as-Code.
+I contribute to and maintain the [OPPAS]{https://github.com/michiari/OPPAS} tool suite for verifying recursive (probabilistic) programs.
 
 
+{% comment %}
 ## News
 - 2025/06/11: our paper "A Tree-Shaped Tableau for Checking the Satisfiability of Signal Temporal Logic with Bounded Temporal Operators" has been accepted at EMSOFT 2025!
 - 2025/05/22: our paper ["Decentralized Planning Using Probabilistic Hyperproperties"](https://doi.org/10.48550/arXiv.2502.13621){:target="_blank"} has been awarded the Best Student Paper Award at AAMAS 2025!
 - 2025/05/20: our paper ["POPACheck: A Model Checker for Probabilistic Pushdown Automata"](https://doi.org/10.48550/arXiv.2502.03956){:target="_blank"} has been accepted at CAV 2025!
 - 2024/12/20: I'll be co-chairing the [VeriProp 2025](https://veriprop.github.io/2025/){:target="_blank"} Workshop @ CAV 2025
 - 2024/08/13: I'll serve on the OOPSLA 2024-25 Review Committee
-
-{% comment %}
 - 2024/04/27: Our paper ["SMT-based Symbolic Model-Checking for Operator Precedence Languages"](https://doi.org/10.1007/978-3-031-65627-9_19){:target="_blank"} has been accepted at CAV 2024!
 - 2024/01/22: I'll serve on the [RV 2024](https://yeni.cmpe.bogazici.edu.tr/rv24/committees/){:target="_blank"} PC
 - 2023/12/14: I'll be co-chairing the [VeriProp 2024](https://veriprop.github.io/2024/){:target="_blank"} Workshop @ CAV 2024
@@ -54,15 +46,10 @@ where I was involved in the [PIACERE H2020 project](https://www.piacere-project.
 
 ## Contact
 
-The best way to contact me is by email: [michele.chiari@tuwien.ac.at] <br />
-GitHub: [michiari](https://github.com/michiari){:target="_blank"}
+The best way to contact me is by email: [name.surname@ait.ac.at] <br />
+GitHub: [michiari](https://github.com/michiari){:target="_blank"} <br />
 LinkedIn: [Michele Chiari](https://www.linkedin.com/in/michele-chiari/){:target="_blank"}
 
-Quite often, you may also find me here: <br />
-TrustCPS Group – TU Wien <br />
-Office 27, Floor 3, Building DE <br />
-Treitlstraße 3, 1040, Vienna, Austria <br />
-+43 1 58801 740033 <br />
 
 [TrustCPS]: http://www.eziobartocci.com/team.php
 [Institute of Computer Engineering]: https://ti.tuwien.ac.at/
